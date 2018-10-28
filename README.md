@@ -1,4 +1,4 @@
-# LGMA
+# Local Gaming Mobility Assistant (LGMA)
 LGMA allows you to download files from Google Drive using DZ without needing to use Nut.
 
 ## Setup
