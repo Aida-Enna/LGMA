@@ -4,6 +4,6 @@
 ..svnbridge
 /.vs/
 /packages/
-/LGMA/bin
-/LGMA/obj
+/bin
+/obj
 *.suo
